@@ -1,0 +1,19 @@
+{
+    "name": "franz"
+  , "version": "0.0.1"
+  , "description": "Network based distributed tasks"
+  , "homepage": ""
+  , "keywords": ["queue", "kafka", "franz"]
+  , "author": "brett_langdon <brett@blangdon.com>"
+  , "contributors": [
+      { "name": "brett_langdon", "email": "brett@blangdon.com" }
+    ]
+  , "repository":{
+        "type": "git"
+      , "url": "github.com/brettlangdon/franz.git"
+    }
+  , "dependencies": {
+    }
+  , "main": "./lib/index.js"
+  , "engines": { "node": ">= 0.6.0" }
+}
